@@ -1,7 +1,7 @@
 function Index() {
     return (
         <div className="bg-[#7854F7] mt-24 section-clip py-10 relative">
-            <div className="container mx-auto flex-col   ">
+            <div className="container mx-auto flex-col  px-6 ">
                 <div className="flex -mt-24 items-center gap-x-6 relative " >
                     <img className="z-10" src="../img/section/section1.png" alt="" />
                     <div >

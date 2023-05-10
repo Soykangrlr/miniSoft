@@ -10,8 +10,8 @@ function Index() {
       </div>
 
       <img className="absolute top-16 left-16" src="../img/testi/1.png" alt="" />
-      <img className="absolute top-1/2  -left-7" src="../img/testi/2.png" alt="" />
-      <img className="absolute -bottom-32 -left-2" src="../img/testi/3.png" alt="" />
+      <img className="absolute top-1/2  -left-2" src="../img/testi/2.png" alt="" />
+      <img className="absolute -bottom-32 left-0" src="../img/testi/3.png" alt="" />
       <img className="absolute right-24 top-24" src="../img/testi/4.png" alt="" />
       <img className="absolute right-24 " src="../img/testi/5.png" alt="" />
       <img className="absolute -right-10 top-1/2 " src="../img/testi/6.png" alt="" />

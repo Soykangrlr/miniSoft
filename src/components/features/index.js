@@ -7,7 +7,7 @@ function Index() {
     <div className="container mx-auto mt-12">
         <h1 className="text-center font-bold text-[55px] max-w-md mx-auto text-[#272D4E] leading-[70px]">Your eCommerce 
 made simple</h1>
-<div className="flex mt-8 gap-x-6">
+<div className="flex px-8 mt-8 gap-x-6">
  <Card1/>
  <Card2/>
  <Card3/>
