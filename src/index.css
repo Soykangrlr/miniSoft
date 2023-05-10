@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+@layer components {
+    .heroBg {
+        background: linear-gradient(180deg, #E5EFFF 0%, rgba(229, 239, 255, 0.262661) 83.7%, rgba(229, 239, 255, 0) 100%)
+    }
+
+    .navFont {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 21px;
+        color: #272D4E;
+    }
+
+    .buildFont {
+
+        font-style: normal;
+        font-weight: 700;
+        font-size: 75px;
+        line-height: 95px;
+        color: #272D4E;
+    }
+
+    .heroDescription {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 25px;
+        color: #94A2B3;
+    }
+    .secp-pation-clip{
+        
+    }
+    /* clip-path: polygon(0 0, 33.3% 10%,66.6% 10%, 100% 0, 100% 100%, 33.3% 90%,66.6% 90%, 0 100%); */
+   .circle-big{
+    border: 5px solid #FFBA49;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+   }
+   .circle-small{
+    border: 5px solid #FFBA49;
+    border-radius: 50%;
+    width: 65px;
+    height: 65px;
+   }
+   .circle-medium{
+    border: 5px solid #FFBA49;
+    border-radius: 50%;
+    width: 262px;
+    height: 262px;
+   }
+   .testiBg{
+    background: linear-gradient(180deg, rgba(236, 240, 253, 0) 0%, rgba(236, 240, 253, 0.53) 14.32%, #ECF0FD 45.83%, rgba(236, 240, 253, 0.43) 84.33%, rgba(236, 240, 253, 0) 100%);
+   }
+   .test-desc{
+    box-shadow: 0px 18px 52.8537px rgba(215, 228, 249, 0.5);
+border-radius: 20px;
+   }
+}
